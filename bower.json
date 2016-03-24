@@ -1,0 +1,16 @@
+{
+  "name": "a73-inuit-z-index-settings",
+  "version": "0.0.1",
+  "homepage": "https://github.com/a73-inuit/settings.z-index",
+  "authors": [
+    "Rodrigo Erades <rerades@siete3.com>"
+  ],
+  "description": "Global, default settings for z-index layers",
+  "main": "_settings.z-index.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache"
+}
