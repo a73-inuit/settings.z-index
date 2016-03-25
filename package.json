@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-z-index-settings",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Global, default settings for z-index layers",
   "main": "_settings.colors.scss",
   "repository": {
